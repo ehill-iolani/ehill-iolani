@@ -1,6 +1,6 @@
 ### Ethan C. Hill
 
-I'm a bioinformatician at the **ʻIolani School Office of Community Science** in Honolulu. I build production Nextflow and Snakemake pipelines for Oxford Nanopore data, and the cloud platform that lets teachers, students, and field researchers run them without touching a terminal.
+I'm the bioinformatician at the **ʻIolani School Office of Community Science** in Honolulu. I build production Nextflow and Snakemake pipelines for Oxford Nanopore data, and the cloud platform that lets teachers, students, and field researchers run them without touching a terminal.
 
 - **Pipelines:** bacterial genome assembly, eDNA species ID, and 16S microbiome profiling (Nextflow DSL2, containerized, versioned releases)
 - **Platform:** a GCP web app (React, FastAPI on Cloud Run, Google Batch, Firebase auth) that runs pinned pipeline releases on demand
