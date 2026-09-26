@@ -7,8 +7,6 @@ I'm a bioinformatician at the **ʻIolani School Office of Community Science** in
 - **Research:** reference genomes and phylogenomics for Hawaiian biodiversity, with SDZWA, Bishop Museum, and NASA collaborators
 - **Outreach:** training Hawaiʻi DOE teachers through the [ʻĀina Informatics Network](https://www.communityscience.iolani.org/ainainformatics) to bring real sequencing into classrooms
 
--->
-
 ---
 
 ### The pipelines
