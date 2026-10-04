@@ -3,7 +3,7 @@
 I'm the bioinformatician at the **ʻIolani School Office of Community Science** in Honolulu. I build production Nextflow and Snakemake pipelines for Oxford Nanopore data, and the cloud platform that lets teachers, students, and field researchers run them without touching a terminal.
 
 - **Pipelines:** bacterial genome assembly, eDNA species ID, and 16S microbiome profiling (Nextflow DSL2, containerized, versioned releases)
-- **Platform:** a GCP web app (React, FastAPI on Cloud Run, Google Batch, Firebase auth) that runs pinned pipeline releases on demand
+- **Platform:** a GCP web app (React, FastAPI on Cloud Run, Google Batch, Firebase auth) that runs pinned pipeline releases on demand, view the **[live platform demo](https://iolani-bioinformatics.web.app/demo/784b4786ae19)**
 - **Research:** reference genomes and phylogenomics for Hawaiian biodiversity, with SDZWA, Bishop Museum, the University of Hawaii, and NASA collaborators
 - **Outreach:** training Hawaiʻi DOE teachers through the [ʻĀina Informatics Network](https://www.communityscience.iolani.org/ainainformatics) to bring real sequencing into classrooms
 
